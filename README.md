@@ -6,7 +6,7 @@
 
 **Live App:** [https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/](https://library-management-system-kyzeblsisibbmvmbnrccuc.streamlit.app/)
 
-👉 **Try the Movie Recommender System**
+👉 **Try the Library Management System**
 
 ---
 
