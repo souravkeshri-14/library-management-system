@@ -2,14 +2,6 @@
 
 > A full-stack library management application built with **Python, Streamlit, MySQL, and PyMySQL**, designed to manage books, users, requests, issue/return operations, and library history from a single web interface.
 
-## 🚀 Live Demo
-
-**Live App:** [https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/](https://library-management-system-kyzeblsisibbmvmbnrccuc.streamlit.app/)
-
-👉 **Try the Library Management System**
-
----
-
 <p align="left">
   <a href="https://github.com/souravkeshri-14/library-management-system">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
@@ -19,6 +11,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Aiven%20MySQL-Cloud-FF5A3D?style=for-the-badge" alt="Aiven MySQL">
 </p>
+
+## 🚀 Live Demo
+
+**Live App:** [https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/](https://library-management-system-kyzeblsisibbmvmbnrccuc.streamlit.app/)
+
+👉 **Try the Library Management System**
 
 ---
 
